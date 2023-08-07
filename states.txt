@@ -4,3 +4,7 @@ punjab
 rajasthan
 uttar pradesh
 kashmir
+usa
+russia
+chaina
+japan
